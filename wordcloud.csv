@@ -1,4 +1,3 @@
-weight,word,color,url
 1,Authlogic,#F44336,
 1,Object Constraint Language OCL,#E91E63,
 1,OCL Object Constraint Language,#FF5722,
@@ -204,6 +203,7 @@ weight,word,color,url
 10,Scrum,#03A9F4,
 10,Shopify,#00BCD4,
 10,Sinatra,#009688,
+10,Docker,#009688,
 10,SmallTalk Cincom,#4CAF50,
 10,SQL,#8BC34A,
 10,Stripe,#CDDC39,
@@ -227,4 +227,19 @@ weight,word,color,url
 30,Python,#673AB7,
 30,Ruby,#2196F3,
 35,C,#CDDC39,
-7,unreal engine,#CDDC39
+7,unreal engine,#CDDC39,
+10,AWS S3,#673AB7,
+10,AWS CodeCommit,#2196F3,
+10,AWS Pipeline,#03A9F4,
+10,AWS Rekognition,#00BCD4,
+10,AWS IAM,#009688,
+10,AWS PyTesseract,#4CAF50,
+10,AWS MariaDB,#8BC34A,
+10,Scikit,#CDDC39,
+10,TensorFlow,#FFEB3B,
+10,Machine Learning,#FFC107,
+8,PostgreSQL,#03A9F4,
+10,CMake,#9E9E9E,
+10,AutoMake,#607D8B,
+10,Ant,#CDDC39,
+10,KDevelop,#03A9F4
